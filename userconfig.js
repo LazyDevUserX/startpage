@@ -11,12 +11,12 @@ const default_config = {
     iconColor: "#f38ba8",
   },
   disabled: [],
-  fastlink: "https://app.raindrop.io",
+  fastlink: "https://google.com",
   openLastVisitedTab: true,
   tabs: [
     {
       name: "rohan",
-      background_url: "src/img/banners/cbg-9.gif",
+      background_url: "src/img/banners/bg-2.gif",
       categories: [
         {
           name: "bookmarks",
